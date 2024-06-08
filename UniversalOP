@@ -1,0 +1,5 @@
+game:GetService("Players").LocalPlayer:Kick("You have been Permanently Banned ! if you think this is a mistake please contact our discord server")
+
+print("UniversalOP has been Executed ☑️")
+wait(1)
+print("I'm joking this a troll")
